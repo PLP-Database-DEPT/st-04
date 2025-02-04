@@ -1,17 +1,24 @@
 Week 4: 🎯 Test Design Techniques
+
 🎯 Learning Objectives
 ✅ Understand black-box and white-box testing and their differences.
 🔍 Explore key test design techniques like equivalence partitioning and boundary value analysis.
 🛠️ Learn how decision tables and state transition testing improve test coverage and efficiency.
+
+
 📋 What You'll Need
 💻 A computer with internet access.
 ✍️ A text editor (e.g., Visual Studio Code).
 🖥️ A testing environment or tool of your choice (e.g., Selenium, JUnit).
+
+
 📝 Submission Instructions
 📂 Navigate to the repository and locate the answers.md file.
 🖋️ Write your answers directly in answers.md, ensuring clarity and completeness.
 🔄 Review your work before submission.
 📤 Push your changes to the repository.
+
+
 📚 Assignment Questions
 1️⃣ Black-Box vs. White-Box Testing 🎭
 🧐 What is black-box testing, and how does it differ from white-box testing?
